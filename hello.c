@@ -3,6 +3,6 @@
 void mian()
 {
   clrscr();
-  printf("Hello_WOrld!");
+  printf("Hello_WOrld!!");
   getch();
 }
